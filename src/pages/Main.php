@@ -5,7 +5,7 @@ echo <<< _END
  <head>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link href="styles/styles.css" rel="stylesheet">
-  <meta charset="utf-8" />
+  <meta charset="utf-8"/>
   <title>HTML5</title>
  </head>
  <body>
